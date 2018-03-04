@@ -1,8 +1,6 @@
 # placements
 
-A new Flutter project.
+Placements' mobile client
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+# License 
+GNU GPLv3
