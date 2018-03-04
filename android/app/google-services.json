@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649844661943",
+    "firebase_url": "https://cgproject-631d0.firebaseio.com",
+    "project_id": "cgproject-631d0",
+    "storage_bucket": "cgproject-631d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649844661943:android:e310acc7cc426dcc",
+        "android_client_info": {
+          "package_name": "com.crook.placements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649844661943-nkcirjpl8ikl1buqch265q1stfbc31fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crook.placements",
+            "certificate_hash": "3f4864a180c4e23f36bc7b4290286abcbc269aae"
+          }
+        },
+        {
+          "client_id": "649844661943-novfbs3vp35tn3fdaft8v7b0vitan47k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDOWB0fyf66z6oi2ntC6QFlhfHpPFLhc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649844661943-novfbs3vp35tn3fdaft8v7b0vitan47k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
