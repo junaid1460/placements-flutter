@@ -1,5 +1,4 @@
-# placements
-
+# Placements
 Placements' mobile client
 
 # License 
